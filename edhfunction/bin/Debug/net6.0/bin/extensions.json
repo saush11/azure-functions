@@ -1,5 +1,0 @@
-{
-  "extensions":[
-    { "name": "SqlBinding", "typeName":"Microsoft.Azure.WebJobs.Extensions.Sql.SqlBindingStartup, Microsoft.Azure.WebJobs.Extensions.Sql, Version=2.0.144.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"}
-  ]
-}
